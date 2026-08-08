@@ -1,0 +1,13 @@
+credentials.json
+token.json
+client_secret*.json
+*.pem
+settings.json
+dashboard.log
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+Thumbs.db
